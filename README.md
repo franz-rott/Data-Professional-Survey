@@ -4,7 +4,7 @@
 This project revolves around analyzing a comprehensive survey of data professionals. Focusing on aspects like pay per job title, gender distribution, average age, job satisfaction, and preferred programming languages, the data was cleaned and formatted in Power BI. An interactive dashboard was then created to offer intuitive and detailed insights into the professional landscape of data experts.
 
 ## Getting Started
-
+ 
 ### Dependencies
 - Microsoft Power BI for data visualization and dashboard creation.
 - Microsoft Excel or compatible software to view and manage the raw dataset.
