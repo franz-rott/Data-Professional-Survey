@@ -45,4 +45,4 @@ Franz Rott
 Guided by AlexTheAnalyst
 
 ### Dashboard Preview
-[Survey Dashboard.pdf](https://github.com/franz-rott/Data-Professional-Survey/files/13488133/Survey.Dashboard.pdf)
+![Survey Dashboard_page-0001](https://github.com/franz-rott/Data-Professional-Survey/assets/134930202/cd514352-f33a-43fd-b6cc-f18f4259c3c7)
